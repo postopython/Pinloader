@@ -1,0 +1,5 @@
+1
+Requests
+bs4
+PySide2
+os
